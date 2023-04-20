@@ -1,0 +1,276 @@
+
+La ciudad "San Francisco" está en las coordenadas (235,315) cuyas ciudades colindantes son: 
+- "Chicago", que está en las coordenadas (300,280) a una distancia de 73,82px.
+- "Los Angeles", que está en las coordenadas (275,355) a una distancia de 56,57px.
+- "Manila", que está en las coordenadas (1200,420) a una distancia de 970,7px.
+- "Tokio", que está en las coordenadas (1280,290) a una distancia de 1045,3px.
+
+La ciudad "Chicago" está en las coordenadas (300,280) cuyas ciudades colindantes son: 
+- "San Francisco", que está en las coordenadas (235,315) a una distancia de 73,82px.
+- "Montreal", que está en las coordenadas (350,280) a una distancia de 50px.
+- "Atlanta", que está en las coordenadas (320,320) a una distancia de 44,72px.
+- "Mexico DF", que está en las coordenadas (300,385) a una distancia de 105px.
+- "Los Angeles", que está en las coordenadas (275,355) a una distancia de 79,06px.
+
+La ciudad "Atlanta" está en las coordenadas (320,320) cuyas ciudades colindantes son: 
+- "Chicago", que está en las coordenadas (300,280) a una distancia de 44,72px.
+- "Miami", que está en las coordenadas (380,360) a una distancia de 72,11px.
+- "Washington", que está en las coordenadas (360,330) a una distancia de 41,23px.
+
+La ciudad "Montreal" está en las coordenadas (350,280) cuyas ciudades colindantes son: 
+- "Chicago", que está en las coordenadas (300,280) a una distancia de 50px.
+- "Nueva York", que está en las coordenadas (380,290) a una distancia de 31,62px.
+- "Washington", que está en las coordenadas (360,330) a una distancia de 50,99px.
+
+La ciudad "Nueva York" está en las coordenadas (380,290) cuyas ciudades colindantes son: 
+- "Montreal", que está en las coordenadas (350,280) a una distancia de 31,62px.
+- "Washington", que está en las coordenadas (360,330) a una distancia de 44,72px.
+- "Londres", que está en las coordenadas (700,230) a una distancia de 325,58px.
+- "Madrid", que está en las coordenadas (687,290) a una distancia de 307px.
+
+La ciudad "Washington" está en las coordenadas (360,330) cuyas ciudades colindantes son: 
+- "Montreal", que está en las coordenadas (350,280) a una distancia de 50,99px.
+- "Nueva York", que está en las coordenadas (380,290) a una distancia de 44,72px.
+- "Atlanta", que está en las coordenadas (320,320) a una distancia de 41,23px.
+- "Miami", que está en las coordenadas (380,360) a una distancia de 36,06px.
+
+La ciudad "Londres" está en las coordenadas (700,230) cuyas ciudades colindantes son: 
+- "Nueva York", que está en las coordenadas (380,290) a una distancia de 325,58px.
+- "Madrid", que está en las coordenadas (687,290) a una distancia de 61,39px.
+- "Paris", que está en las coordenadas (727,250) a una distancia de 33,6px.
+- "Essen", que está en las coordenadas (755,190) a una distancia de 68,01px.
+
+La ciudad "Madrid" está en las coordenadas (687,290) cuyas ciudades colindantes son: 
+- "Nueva York", que está en las coordenadas (380,290) a una distancia de 307px.
+- "Londres", que está en las coordenadas (700,230) a una distancia de 61,39px.
+- "Paris", que está en las coordenadas (727,250) a una distancia de 56,57px.
+- "Sao Paulo", que está en las coordenadas (520,570) a una distancia de 326,02px.
+- "Argel", que está en las coordenadas (730,330) a una distancia de 58,73px.
+
+La ciudad "Paris" está en las coordenadas (727,250) cuyas ciudades colindantes son: 
+- "Madrid", que está en las coordenadas (687,290) a una distancia de 56,57px.
+- "Londres", que está en las coordenadas (700,230) a una distancia de 33,6px.
+- "Essen", que está en las coordenadas (755,190) a una distancia de 66,21px.
+- "Argel", que está en las coordenadas (730,330) a una distancia de 80,06px.
+- "Milan", que está en las coordenadas (755,235) a una distancia de 31,76px.
+
+La ciudad "Essen" está en las coordenadas (755,190) cuyas ciudades colindantes son: 
+- "Londres", que está en las coordenadas (700,230) a una distancia de 68,01px.
+- "Paris", que está en las coordenadas (727,250) a una distancia de 66,21px.
+- "San Petersburgo", que está en las coordenadas (815,210) a una distancia de 63,25px.
+- "Milan", que está en las coordenadas (755,235) a una distancia de 45px.
+
+La ciudad "Milan" está en las coordenadas (755,235) cuyas ciudades colindantes son: 
+- "Essen", que está en las coordenadas (755,190) a una distancia de 45px.
+- "Paris", que está en las coordenadas (727,250) a una distancia de 31,76px.
+- "Estambul", que está en las coordenadas (830,294) a una distancia de 95,43px.
+
+La ciudad "San Petersburgo" está en las coordenadas (815,210) cuyas ciudades colindantes son: 
+- "Essen", que está en las coordenadas (755,190) a una distancia de 63,25px.
+- "Estambul", que está en las coordenadas (830,294) a una distancia de 85,33px.
+- "Moscu", que está en las coordenadas (890,230) a una distancia de 77,62px.
+
+La ciudad "Los Angeles" está en las coordenadas (275,355) cuyas ciudades colindantes son: 
+- "San Francisco", que está en las coordenadas (235,315) a una distancia de 56,57px.
+- "Mexico DF", que está en las coordenadas (300,385) a una distancia de 39,05px.
+- "Chicago", que está en las coordenadas (300,280) a una distancia de 79,06px.
+- "Sidney", que está en las coordenadas (1320,645) a una distancia de 1084,49px.
+
+La ciudad "Miami" está en las coordenadas (380,360) cuyas ciudades colindantes son: 
+- "Washington", que está en las coordenadas (360,330) a una distancia de 36,06px.
+- "Atlanta", que está en las coordenadas (320,320) a una distancia de 72,11px.
+- "Mexico DF", que está en las coordenadas (300,385) a una distancia de 83,82px.
+- "Bogota", que está en las coordenadas (400,460) a una distancia de 101,98px.
+
+La ciudad "Mexico DF" está en las coordenadas (300,385) cuyas ciudades colindantes son: 
+- "Los Angeles", que está en las coordenadas (275,355) a una distancia de 39,05px.
+- "Miami", que está en las coordenadas (380,360) a una distancia de 83,82px.
+- "Chicago", que está en las coordenadas (300,280) a una distancia de 105px.
+- "Bogota", que está en las coordenadas (400,460) a una distancia de 125px.
+- "Lima", que está en las coordenadas (395,520) a una distancia de 165,08px.
+
+La ciudad "Bogota" está en las coordenadas (400,460) cuyas ciudades colindantes son: 
+- "Miami", que está en las coordenadas (380,360) a una distancia de 101,98px.
+- "Mexico DF", que está en las coordenadas (300,385) a una distancia de 125px.
+- "Lima", que está en las coordenadas (395,520) a una distancia de 60,21px.
+- "Sao Paulo", que está en las coordenadas (520,570) a una distancia de 162,79px.
+- "Buenos Aires", que está en las coordenadas (453,670) a una distancia de 216,58px.
+
+La ciudad "Lima" está en las coordenadas (395,520) cuyas ciudades colindantes son: 
+- "Mexico DF", que está en las coordenadas (300,385) a una distancia de 165,08px.
+- "Bogota", que está en las coordenadas (400,460) a una distancia de 60,21px.
+- "Santiago de Chile", que está en las coordenadas (430,620) a una distancia de 105,95px.
+
+La ciudad "Santiago de Chile" está en las coordenadas (430,620) cuyas ciudades colindantes son: 
+- "Lima", que está en las coordenadas (395,520) a una distancia de 105,95px.
+
+La ciudad "Buenos Aires" está en las coordenadas (453,670) cuyas ciudades colindantes son: 
+- "Sao Paulo", que está en las coordenadas (520,570) a una distancia de 120,37px.
+- "Bogota", que está en las coordenadas (400,460) a una distancia de 216,58px.
+
+La ciudad "Sao Paulo" está en las coordenadas (520,570) cuyas ciudades colindantes son: 
+- "Bogota", que está en las coordenadas (400,460) a una distancia de 162,79px.
+- "Buenos Aires", que está en las coordenadas (453,670) a una distancia de 120,37px.
+- "Lagos", que está en las coordenadas (710,450) a una distancia de 224,72px.
+- "Madrid", que está en las coordenadas (687,290) a una distancia de 326,02px.
+
+La ciudad "Lagos" está en las coordenadas (710,450) cuyas ciudades colindantes son: 
+- "Sao Paulo", que está en las coordenadas (520,570) a una distancia de 224,72px.
+- "Kinsasa", que está en las coordenadas (770,540) a una distancia de 108,17px.
+- "Jartum", que está en las coordenadas (815,450) a una distancia de 105px.
+
+La ciudad "Kinsasa" está en las coordenadas (770,540) cuyas ciudades colindantes son: 
+- "Lagos", que está en las coordenadas (710,450) a una distancia de 108,17px.
+- "Jartum", que está en las coordenadas (815,450) a una distancia de 100,62px.
+- "Johannesburgo", que está en las coordenadas (815,630) a una distancia de 100,62px.
+
+La ciudad "Jartum" está en las coordenadas (815,450) cuyas ciudades colindantes son: 
+- "El Cairo", que está en las coordenadas (820,350) a una distancia de 100,12px.
+- "Lagos", que está en las coordenadas (710,450) a una distancia de 105px.
+- "Kinsasa", que está en las coordenadas (770,540) a una distancia de 100,62px.
+- "Johannesburgo", que está en las coordenadas (815,630) a una distancia de 180px.
+
+La ciudad "Johannesburgo" está en las coordenadas (815,630) cuyas ciudades colindantes son: 
+- "Kinsasa", que está en las coordenadas (770,540) a una distancia de 100,62px.
+- "Jartum", que está en las coordenadas (815,450) a una distancia de 180px.
+
+La ciudad "Argel" está en las coordenadas (730,330) cuyas ciudades colindantes son: 
+- "Madrid", que está en las coordenadas (687,290) a una distancia de 58,73px.
+- "Paris", que está en las coordenadas (727,250) a una distancia de 80,06px.
+- "Estambul", que está en las coordenadas (830,294) a una distancia de 106,28px.
+- "El Cairo", que está en las coordenadas (820,350) a una distancia de 92,2px.
+
+La ciudad "El Cairo" está en las coordenadas (820,350) cuyas ciudades colindantes son: 
+- "Argel", que está en las coordenadas (730,330) a una distancia de 92,2px.
+- "Estambul", que está en las coordenadas (830,294) a una distancia de 56,89px.
+- "Bagdad", que está en las coordenadas (880,320) a una distancia de 67,08px.
+
+La ciudad "Riad" está en las coordenadas (895,385) cuyas ciudades colindantes son: 
+- "El Cairo", que está en las coordenadas (820,350) a una distancia de 82,76px.
+- "Bagdad", que está en las coordenadas (880,320) a una distancia de 66,71px.
+- "Karachi", que está en las coordenadas (980,355) a una distancia de 90,14px.
+
+La ciudad "Estambul" está en las coordenadas (830,294) cuyas ciudades colindantes son: 
+- "Argel", que está en las coordenadas (730,330) a una distancia de 106,28px.
+- "El Cairo", que está en las coordenadas (820,350) a una distancia de 56,89px.
+- "Bagdad", que está en las coordenadas (880,320) a una distancia de 56,36px.
+- "Moscu", que está en las coordenadas (890,230) a una distancia de 87,73px.
+
+La ciudad "Bagdad" está en las coordenadas (880,320) cuyas ciudades colindantes son: 
+- "Estambul", que está en las coordenadas (830,294) a una distancia de 56,36px.
+- "Karachi", que está en las coordenadas (980,355) a una distancia de 105,95px.
+- "Riad", que está en las coordenadas (895,385) a una distancia de 66,71px.
+- "El Cairo", que está en las coordenadas (820,350) a una distancia de 67,08px.
+
+La ciudad "Moscu" está en las coordenadas (890,230) cuyas ciudades colindantes son: 
+- "Teheran", que está en las coordenadas (920,310) a una distancia de 85,44px.
+- "Estambul", que está en las coordenadas (830,294) a una distancia de 87,73px.
+- "San Petersburgo", que está en las coordenadas (815,210) a una distancia de 77,62px.
+
+La ciudad "Teheran" está en las coordenadas (920,310) cuyas ciudades colindantes son: 
+- "Moscu", que está en las coordenadas (890,230) a una distancia de 85,44px.
+- "Bagdad", que está en las coordenadas (880,320) a una distancia de 41,23px.
+- "Karachi", que está en las coordenadas (980,355) a una distancia de 75px.
+- "Nueva Delhi", que está en las coordenadas (1025,330) a una distancia de 106,89px.
+
+La ciudad "Karachi" está en las coordenadas (980,355) cuyas ciudades colindantes son: 
+- "Teheran", que está en las coordenadas (920,310) a una distancia de 75px.
+- "Bagdad", que está en las coordenadas (880,320) a una distancia de 105,95px.
+- "Nueva Delhi", que está en las coordenadas (1025,330) a una distancia de 51,48px.
+- "Riad", que está en las coordenadas (895,385) a una distancia de 90,14px.
+- "Bombay", que está en las coordenadas (1005,395) a una distancia de 47,17px.
+
+La ciudad "Bombay" está en las coordenadas (1005,395) cuyas ciudades colindantes son: 
+- "Karachi", que está en las coordenadas (980,355) a una distancia de 47,17px.
+- "Nueva Delhi", que está en las coordenadas (1025,330) a una distancia de 68,01px.
+- "Madras", que está en las coordenadas (1035,410) a una distancia de 33,54px.
+
+La ciudad "Nueva Delhi" está en las coordenadas (1025,330) cuyas ciudades colindantes son: 
+- "Teheran", que está en las coordenadas (920,310) a una distancia de 106,89px.
+- "Karachi", que está en las coordenadas (980,355) a una distancia de 51,48px.
+- "Bombay", que está en las coordenadas (1005,395) a una distancia de 68,01px.
+- "Madras", que está en las coordenadas (1035,410) a una distancia de 80,62px.
+- "Calcuta", que está en las coordenadas (1070,370) a una distancia de 60,21px.
+
+La ciudad "Calcuta" está en las coordenadas (1070,370) cuyas ciudades colindantes son: 
+- "Nueva Delhi", que está en las coordenadas (1025,330) a una distancia de 60,21px.
+- "Hong Kong", que está en las coordenadas (1165,370) a una distancia de 95px.
+- "Madras", que está en las coordenadas (1035,410) a una distancia de 53,15px.
+- "Bangkok", que está en las coordenadas (1120,415) a una distancia de 67,27px.
+
+La ciudad "Madras" está en las coordenadas (1035,410) cuyas ciudades colindantes son: 
+- "Bombay", que está en las coordenadas (1005,395) a una distancia de 33,54px.
+- "Nueva Delhi", que está en las coordenadas (1025,330) a una distancia de 80,62px.
+- "Calcuta", que está en las coordenadas (1070,370) a una distancia de 53,15px.
+- "Bangkok", que está en las coordenadas (1120,415) a una distancia de 85,15px.
+- "Yakarta", que está en las coordenadas (1150,525) a una distancia de 162,63px.
+
+La ciudad "Yakarta" está en las coordenadas (1150,525) cuyas ciudades colindantes son: 
+- "Madras", que está en las coordenadas (1035,410) a una distancia de 162,63px.
+- "Bangkok", que está en las coordenadas (1120,415) a una distancia de 114,02px.
+- "Ho Chi Minh", que está en las coordenadas (1148,429) a una distancia de 96,02px.
+- "Sidney", que está en las coordenadas (1320,645) a una distancia de 208,09px.
+
+La ciudad "Bangkok" está en las coordenadas (1120,415) cuyas ciudades colindantes son: 
+- "Yakarta", que está en las coordenadas (1150,525) a una distancia de 114,02px.
+- "Calcuta", que está en las coordenadas (1070,370) a una distancia de 67,27px.
+- "Madras", que está en las coordenadas (1035,410) a una distancia de 85,15px.
+- "Ho Chi Minh", que está en las coordenadas (1148,429) a una distancia de 31,3px.
+- "Hong Kong", que está en las coordenadas (1165,370) a una distancia de 63,64px.
+
+La ciudad "Hong Kong" está en las coordenadas (1165,370) cuyas ciudades colindantes son: 
+- "Bangkok", que está en las coordenadas (1120,415) a una distancia de 63,64px.
+- "Ho Chi Minh", que está en las coordenadas (1148,429) a una distancia de 61,4px.
+- "Taipei", que está en las coordenadas (1205,375) a una distancia de 40,31px.
+- "Manila", que está en las coordenadas (1200,420) a una distancia de 61,03px.
+- "Shanghai", que está en las coordenadas (1195,355) a una distancia de 33,54px.
+
+La ciudad "Shanghai" está en las coordenadas (1195,355) cuyas ciudades colindantes son: 
+- "Pekin", que está en las coordenadas (1175,300) a una distancia de 58,52px.
+- "Hong Kong", que está en las coordenadas (1165,370) a una distancia de 33,54px.
+- "Seul", que está en las coordenadas (1225,297) a una distancia de 65,3px.
+- "Tokio", que está en las coordenadas (1280,290) a una distancia de 107px.
+- "Taipei", que está en las coordenadas (1205,375) a una distancia de 22,36px.
+
+La ciudad "Pekin" está en las coordenadas (1175,300) cuyas ciudades colindantes son: 
+- "Seul", que está en las coordenadas (1225,297) a una distancia de 50,09px.
+- "Shanghai", que está en las coordenadas (1195,355) a una distancia de 58,52px.
+
+La ciudad "Seul" está en las coordenadas (1225,297) cuyas ciudades colindantes son: 
+- "Pekin", que está en las coordenadas (1175,300) a una distancia de 50,09px.
+- "Tokio", que está en las coordenadas (1280,290) a una distancia de 55,44px.
+
+La ciudad "Tokio" está en las coordenadas (1280,290) cuyas ciudades colindantes son: 
+- "San Francisco", que está en las coordenadas (235,315) a una distancia de 1045,3px.
+- "Seul", que está en las coordenadas (1225,297) a una distancia de 55,44px.
+- "Osaka", que está en las coordenadas (1255,320) a una distancia de 39,05px.
+- "Shanghai", que está en las coordenadas (1195,355) a una distancia de 107px.
+
+La ciudad "Osaka" está en las coordenadas (1255,320) cuyas ciudades colindantes son: 
+- "Tokio", que está en las coordenadas (1280,290) a una distancia de 39,05px.
+- "Taipei", que está en las coordenadas (1205,375) a una distancia de 74,33px.
+
+La ciudad "Taipei" está en las coordenadas (1205,375) cuyas ciudades colindantes son: 
+- "Osaka", que está en las coordenadas (1255,320) a una distancia de 74,33px.
+- "Shanghai", que está en las coordenadas (1195,355) a una distancia de 22,36px.
+- "Hong Kong", que está en las coordenadas (1165,370) a una distancia de 40,31px.
+- "Manila", que está en las coordenadas (1200,420) a una distancia de 45,28px.
+
+La ciudad "Ho Chi Minh" está en las coordenadas (1148,429) cuyas ciudades colindantes son: 
+- "Yakarta", que está en las coordenadas (1150,525) a una distancia de 96,02px.
+- "Bangkok", que está en las coordenadas (1120,415) a una distancia de 31,3px.
+- "Hong Kong", que está en las coordenadas (1165,370) a una distancia de 61,4px.
+- "Manila", que está en las coordenadas (1200,420) a una distancia de 52,77px.
+
+La ciudad "Manila" está en las coordenadas (1200,420) cuyas ciudades colindantes son: 
+- "San Francisco", que está en las coordenadas (235,315) a una distancia de 970,7px.
+- "Ho Chi Minh", que está en las coordenadas (1148,429) a una distancia de 52,77px.
+- "Taipei", que está en las coordenadas (1205,375) a una distancia de 45,28px.
+- "Hong Kong", que está en las coordenadas (1165,370) a una distancia de 61,03px.
+- "Sidney", que está en las coordenadas (1320,645) a una distancia de 255px.
+
+La ciudad "Sidney" está en las coordenadas (1320,645) cuyas ciudades colindantes son: 
+- "Los Angeles", que está en las coordenadas (275,355) a una distancia de 1084,49px.
+- "Manila", que está en las coordenadas (1200,420) a una distancia de 255px.
+- "Yakarta", que está en las coordenadas (1150,525) a una distancia de 208,09px.
+
