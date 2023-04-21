@@ -1,0 +1,7 @@
+Jugador Adrian
+Enfermedad Delta
+Color Rojo
+Nvl enfermedad 1
+Estado de cura 0
+Ciudad actual Montreal
+

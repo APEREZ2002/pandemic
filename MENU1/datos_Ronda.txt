@@ -1,0 +1,18 @@
+Turno actual: 0
+Jugador: Dinoplay
+Enfermedad: enfermedad1
+Enfermedad 2: enfermedad1
+Enfermedad 3: enfermedad1
+Enfermedad 4: enfermedad1
+Cantidad Ciudades infectadas: 9
+____________________________________________________
+Nivel Enfermedad Gamma 1
+Nivel Enfermedad Beta 1
+Nivel Enfermedad Alfa 1
+Nivel Enfermedad Delta 1
+____________________________________________________
+Estado cura 1: 1
+Estado cura 2: 2
+Estado cura 3: 3
+Estado cura 4: 4
+Brotes actuales: 1
