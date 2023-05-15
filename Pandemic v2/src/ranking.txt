@@ -1,0 +1,15 @@
+ID de Partida: 2
+Rondas Totales: 10
+Nombre del Jugador: alex
+Fecha: 2023-04-21 00:00:00
+Estado: Victoria
+ID de Partida: 1
+Rondas Totales: 10
+Nombre del Jugador: Jugador 1
+Fecha: 2023-04-17 00:00:00
+Estado: Victoria
+ID de Partida: 3
+Rondas Totales: 15
+Nombre del Jugador: adw
+Fecha: 2023-04-21 00:00:00
+Estado: Derrota
